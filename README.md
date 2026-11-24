@@ -2,8 +2,7 @@
 
 An AI-powered data analysis agent that automates data extraction, database operations, and SQL-based analytics using LLMs.
 
-![Uploading image.png…]()
-
+<img width="1906" height="900" alt="image" src="https://github.com/user-attachments/assets/503cec2c-2efa-431c-8b6f-30c3b822f51d" />
 
 ## Features
 
