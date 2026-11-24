@@ -2,6 +2,9 @@
 
 An AI-powered data analysis agent that automates data extraction, database operations, and SQL-based analytics using LLMs.
 
+![Uploading image.png…]()
+
+
 ## Features
 
 - **ETL Agent:** Extracts data from external APIs and processes it into structured datasets.
